@@ -34,4 +34,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanna8296&show_icons=true&locale=en" alt="prasanna8296" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanna8296&" alt="prasanna8296" /></p>
+<p>
+ <img src="https://streak-stats.demolab.com?user=prasanna8296" />
+</p>
+
+
+
