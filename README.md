@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/prasannas175834" target="blank"><img src="https://img.shields.io/twitter/follow/prasannas175834?logo=twitter&style=for-the-badge" alt="prasannas175834" /></a> </p>
 
-- 🔭 I’m currently working on **Golang Projects**
+- 🔭 I’m currently working on **Ai Projects**
 
-- 🌱 I’m currently learning **React Native, Spring Framework**
+- 🌱 I’m currently learning **Python Libraries, Machine Learning**
 
-- 💬 Ask me about **Java Full Stack, Golang, Python, Database**
+- 💬 Ask me about **Java Full Stack, Golang, Python, Database ,Machine Learning**
 
 - 📫 How to reach me **prasannabhat100@gmail.com**
 
